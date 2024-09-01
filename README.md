@@ -10,6 +10,8 @@ A simple solution for hot reload of Blazor apps.
 6. Go to your project's folder in Command Line or Terminal.
 7. Type `hr .\yourproject.csproj`
 8. Open the browser and start making changes.
+9. Do not run your project from Visual Studio or VS Code.
+10. Just make changes and have fun!
    
 ## Requirements
 You need .NET 8 runtime installed on your PC.
